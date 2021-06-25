@@ -2,7 +2,7 @@
 Steam accounts checker written in C#, determines if the account is valid, invalid or steam guard protected.
 
 ---
-This project is using [SteamKit2]("https://github.com/SteamRE/SteamKit").
+This project is using [SteamKit2](https://github.com/SteamRE/SteamKit).
 
 ## How its works
 SteamGuard works by enforcing a two-factor authentication scheme
