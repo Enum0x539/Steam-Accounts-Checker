@@ -1,2 +1,2 @@
 # Steam-Accounts-Checker
-Steam accounts checker written in c#, determining if the account is valid, invalid or steam guard protected.
+Steam accounts checker written in C#, determines if the account is valid, invalid or steam guard protected.
